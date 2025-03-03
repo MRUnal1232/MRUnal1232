@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi! I'm Mrunal, an aspiring software developer passionate about learning and building cool things with code. I'm currently exploring different technologies and working on improving my skills in C, C++, Java, Python, HTML, and CSS.
 
-<!--
-**MRUnal1232/MRUnal1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I'm Working On:
+🔹 Learning and improving my coding skills
+🔹 Exploring open-source projects
+🔹 Planning to start my first personal project soon
 
-Here are some ideas to get you started:
+📌 My Goals:
+✅ Build real-world projects
+✅ Contribute to open-source
+✅ Learn best coding practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to learning and collaborating. Feel free to check out my repositories as I start building projects! 🚀
+
